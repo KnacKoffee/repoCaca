@@ -1,0 +1,45 @@
+Tous les types de pages ont un debut identique, de la forme:
+type*********Texte********/
+
+type est un numero correspondant au type de page, suivi directement (sans 
+espace) du texte. La fin du texte est marquee par le slash. Apres quoi on
+trouve les infos specifiques au type de page.
+
+
+
+	TYPE 1 : choix normal
+
+nb_pages page1 page2 page3 page4
+
+Ecrire exactement les bonnes pages, ne pas completer si seulement 2 pages par
+exemple. 4 pages max.
+
+
+	TYPES 2, 3, 4 : test de competence (chance, habilete, force)
+
+pageFail pageWin
+
+
+	TYPE 5 : combat
+
+pageFuite pageWin numeroMonstre
+
+Pour combat aleatoire : numeroMonstre=0.
+
+
+	TYPE 6 : bonus/malus sur une competence
+
+numeroCompetence valeurChangement nb_pages page1 page2 page3 page4
+
+Numero de comp dans l'ordre d'affichage : Vie=1 , Force=2 , Resist=3 ,
+Habilete=4 , Chance=5.
+
+
+	TYPE 7 : Gain d'objet
+
+numObjet nb_pages page1 page2 page3 page4
+
+
+	TYPE 8 : Fin (win/lose)
+
+Rien apres le slash, le programme ne lit pas dans ce cas.

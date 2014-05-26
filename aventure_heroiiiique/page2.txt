@@ -1,0 +1,11 @@
+1En attendant, vous etes sur un sentier, avec face a vous un croisement. 
+
+A gauche, le chemin s'enfonce dangereusement dans une foret, dont les arbres
+empechent toute lumiere de passer. Rassurant.Vous pouvez la visiter en page 3.
+
+A droite, le chemin continue a travers des plaines et vous croyez distinguer une
+ville au loin.Empruntez la direction de la page 4.
+
+A votre grand etonnement le chemin va aussi dans la direction opposee.
+Decidement, le monde est plein de surprises.Derriere vous, cela mene a la plage.
+Le sable, il est a la page 5./3 3 4 5 

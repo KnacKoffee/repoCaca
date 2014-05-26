@@ -1,0 +1,8 @@
+8Cette page aurait contenu un combat contre un zombie, debouchant sur une page
+offrant un objet avant de continuer l'aventure (une fuite aurait renvoye le 
+heros dans la grotte page 15 (donc de type 5, avec un monstre "Zombie" rattache
+a cette page). 
+
+Par manque de temps, cette page est finale.
+
+..A SUIVRE !/
