@@ -67,6 +67,12 @@ Bluetech (ambient, psyche)
 }
 
 
+Shpongle (chill, psyche)
+{
+  Are You Shpongled?;
+}
+
+
 Kliment (experimental/ambient)
 {
   Perpetual Ritual;
@@ -150,6 +156,13 @@ Speech Defect (trip hop, bullshit)
   Happy Hunting;
   Fresh Coast Gettin' Rowdy
 }
+
+
+Madvillain (trip hop)
+{
+  Madvillainy;			  //apres ca part franchement rap, mais si tu kiffes,
+  Madvillainy 2 The Madlib Remix; //regarde Madlib, c'est un super rapper aussi
+}				  
 
 
 Balkan Beat Box (balkans)
