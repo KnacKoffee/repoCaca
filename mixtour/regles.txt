@@ -1,0 +1,58 @@
+BUT DU JEU
+
+Les joueurs essayent de former des piles d au moins cinq pions, 
+dont le sommet soit occupe par un pion de leur propre couleur. 
+
+MISE EN PLACE
+ 
+Le tablier est vide au depart. Les joueurs choisissent une couleur. 
+Blanc commence, puis on joue alternativement. 
+
+DEROULEMENT DU JEU
+
+Note : dans ce qui suit, le mot pile designe un ou plusieurs pions 
+empiles. Un pion seul est donc aussi appele pile. 
+A son tour de jeu, un joueur peut soit : 
+- Ajouter un pion sur une case vide ; 
+- Déplacer une pile sur le jeu. 
+
+
+Ajouter un pion :
+
+- Le joueur place un pion de sa couleur sur une case libre de son choix.  
+
+
+Déplacer une pile :
+
+- Le joueur choisit une pile et deplace un ou plusieurs pions 
+de cette pile. 
+- Les pions se déplacent en ligne droite, orthogonalement, 
+ou diagonalement. 
+- Les pions sont pris du haut de la pile. 
+- Une pile peut être scindee à n importe quelle  hauteur. 
+Les pions qui ne sont pas pris restent sur la case de depart. 
+
+ /!\ Un joueur peut deplace une pile de n importe quelle couleur ! 
+Il est permis de déplacer des pions isoles adverses 
+et des piles surmontees d un pion adverse. 
+
+
+- Une pile ne peut pas sauter des cases occupees. 
+- Le mouvement doit terminer sur une autre pile, 
+les pions sont placés au-dessus de cette pile. 
+- Les piles peuvent etre de n importe quelle hauteur. 
+- Les piles de cinq pions ou plus sont retirees du jeu 
+et rapportent un point. 
+
+
+Le plus important : 
+- La hauteur de la pile qui reçoit le mouvement determine 
+la distance exacte d ou peut provenir la pile qui se déplace.  
+
+
+FIN DE LA PARTIE
+ 
+Quand un joueur construit une pile de hauteur cinq ou plus : 
+- la pile entiere est retiree du jeu, 
+- le joueur qui possedait le pion superieur de la pile marque un point. 
+Une partie se gagne en cinq points. 

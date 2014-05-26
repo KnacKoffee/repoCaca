@@ -1,0 +1,172 @@
+#include <goodmusic.h>
+#include <goodvibes.h>
+#include <weedbrain.h>
+#include <wubwubwub.h>
+
+
+/*
+
+Les albums que jte mets sont ceux que je connais et/ou que j'aime le plus,
+mais pour la plupart des artistes c'est assez représentatif du reste de leur
+discographie, donc jette une oreille si t'aimes bien !
+
+Oh et aussi, a la fin de la liste ça part beaucoup plus trip hop, limite rap par
+moments (genre Speech Defect ou Lexicon), donc la liste est pas franchement
+restreinte a l'electro.
+*/
+
+
+
+Igorrr(Igorrr); 
+{}
+
+
+Aphex Twin (Aphex Twin)
+{
+  Selected Ambient Works;
+  The Richard D. James Album;
+  Druqs;
+  ...I Care Because You Do;
+}
+
+
+Bong Ra (Rave)
+{
+  I am the god of hellfire;
+  Bikini Bandits;
+}
+
+
+Matta (dubstep)
+{
+  Feel The Heat;
+}
+
+
+Four Tets (electro)
+{
+  Rounds;
+}
+
+DJ Shadow () //ya juste a se servir
+{}
+
+
+Klaus Schulze (experimental) //eh ouais, les allemands nous ont pas trop
+{			     //attendus pour l'electro !
+  Moodawn;
+  Timewind;
+  Body Love;
+}
+
+
+Bluetech (ambient, psyche)
+{
+  Sines and Singularities;
+  Cosmic Dubs;
+}
+
+
+Kliment (experimental/ambient)
+{
+  Perpetual Ritual;
+}
+
+
+Funki Porcini (d&b)
+{
+  Love, Pussycats and Carwrecks;
+  The Ultimately Empty Million Pounds;
+}
+
+
+Hecq (experimental)
+{
+  Steeltongued; 
+}
+
+
+L'attirail (down tempo)
+{
+  Wanted men;
+  Wilderness;
+}
+
+
+Massive Attack (rock electro)
+{
+  Mezzanine;
+  Blue Lines;
+}
+
+
+Kruder & Dorfmeister(trip hop, electro, down tempo)
+{
+  The K&D Sessions;
+  Shakatakadoodub;
+}
+
+
+Peace Orchestra (Peter Kruder)
+{
+  Peace Orchestra;
+  Reset;
+}
+
+
+Tosca (Richard Dorfmeister + Rupert Huber)
+{
+  J.A.C;
+  No Hassle;
+  Dehli9;
+}
+
+
+Apparat (encore un allemand)
+{
+  The Devil's Walk;
+  Duplex;
+  Silizium;
+}
+
+Moderat (Apparat + Modeselektor)
+{
+  Moderat; //regarde modeselektor, un peu plus commercial mais cool
+}
+
+
+Vienna Scientists (trip hop, mustListenLabel)
+{ }
+
+
+Lexicon (trip hop, hip hop)
+{
+  Youth is Yours;
+}
+
+
+Speech Defect (trip hop, bullshit)
+{
+  Happy Hunting;
+  Fresh Coast Gettin' Rowdy
+}
+
+
+Balkan Beat Box (balkans)
+{
+  Nu Med; //fais pas gaffe à l'autre enculé de Tiestö
+}
+
+
+Kaya Project (world) //pas mal pour taffer je pense
+{
+  Elixir;
+  And So It Goes;
+}
+
+
+Baka Beyond (world) //le mélange afrique et celtique est magique ! 
+{		    //(cte rime en -ique, nique, BITnik!)
+  Spirit of the Forest;
+  East to West;
+}
