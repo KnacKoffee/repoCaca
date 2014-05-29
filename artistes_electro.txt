@@ -43,7 +43,7 @@ Matta (dubstep)
 }
 
 
-Four Tets (electro)
+Four Tet (electro)
 {
   Rounds;
 }
@@ -143,6 +143,13 @@ Moderat (Apparat + Modeselektor)
 
 Vienna Scientists (trip hop, mustListenLabel)
 { }
+
+
+Stereo MC's (trip hop)
+{
+  Connected;
+  DJ Kicks;
+}
 
 
 Lexicon (trip hop, hip hop)
